@@ -1,4 +1,4 @@
-console.log("Se nota qu todavia me extrañas");
+console.log("Se nota que todavia me extrañas");
 
 setInterval(cambiarSaludo, 2000);
 
